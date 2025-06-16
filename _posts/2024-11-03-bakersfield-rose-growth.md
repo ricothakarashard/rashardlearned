@@ -5,6 +5,14 @@ published: true
 image: wasco_ast_2011191_lrg.jpg
 ---
 
+{% for image in site.static_files %}
+
+  {% if image.path contains 'assets/images/gallery-1' %}
+    <img src="{{ image.path }}" alt="">
+  {% endif %}
+
+{% endfor %}
+
 [ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
 ![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
 # Welcome
