@@ -13,6 +13,19 @@ image: wasco_ast_2011191_lrg.jpg
 
 {% endfor %}
 
+[MichaelRose](https://mademistakes.com/mastering-jekyll/static-files/)
+--- 
+# Jekyll - Display All Images In Folder
+[davisefor.com](https://daviseford.com/blog/2017/05/31/jekyll-loop-over-folder.html)
+
+{% for image in site.static_files %}
+    {% if image.path contains 'path/to/image/folder/' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
 [ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
 ![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
 # Welcome
