@@ -10,12 +10,12 @@ image: wasco_ast_2011191_lrg.jpg
 [//]: # (This is a comment.)
 [//]: # (This is a comment on a new line.)
 ![image](https://github.com/user-attachments/assets/6433a024-6b1e-4c09-a48a-659f125729c9)
-[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight)
+[Creating and highlighting code blocks - MARKDOWN @github](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-and-highlighting-code-blocks) [HiGHTLiGHTiNG](https://www.markdownguide.org/extended-syntax/#highlight) ![SHOPiFY](https://cdn.shopify.com/shopifycloud/web/assets/v1/vite/client/en/assets/shopify-wordmark-monochrome-CpVsfBAAmxEP.svg)
 I need to highlight these ==very important words==.
 ```
 I need to highlight these ==very important words==.
 ```
-
+[https://admin.shopify.com/store/holetoanotheruniverse](https://admin.shopify.com/store/holetoanotheruniverse) 
 
 <div class="tupperware">
 {% for image in site.static_files %}
