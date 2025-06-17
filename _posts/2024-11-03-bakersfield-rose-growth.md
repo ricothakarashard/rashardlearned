@@ -28,7 +28,7 @@ I need to highlight these ==very important words==.
 </div>
 
 {% raw %}
-<div class="tupperware">
+
 {% for image in site.static_files %}
 
   {% if image.path contains 'assets/images/gallery-1' %}
@@ -36,7 +36,7 @@ I need to highlight these ==very important words==.
   {% endif %}
 
 {% endfor %}
-</div>
+
 {% endraw %}
 
 [MichaelRose](https://mademistakes.com/mastering-jekyll/static-files/)
@@ -57,7 +57,7 @@ I need to highlight these ==very important words==.
 
 
 
-<div class="tupperware">
+
   {% raw %}
 {% for image in site.static_files %}
     {% if image.path contains 'assets/images/gallery-1' %}
@@ -67,7 +67,7 @@ I need to highlight these ==very important words==.
     {% endif %}
 {% endfor %}
   {% endraw %}
-</div>
+
 [ASTRALWERKS CASSETTE SAMPLER SUMMER 1994](https://youtu.be/kypmFar9CRE?t=1248)
 ![BAKERSFiELD](https://eoimages.gsfc.nasa.gov/images/imagerecords/80000/80595/wasco_ast_2011191_lrg.jpg)
 # Welcome
