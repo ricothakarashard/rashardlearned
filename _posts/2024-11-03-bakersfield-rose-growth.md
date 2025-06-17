@@ -4,6 +4,13 @@ title:  "BAKERSFiELD"
 published: true
 image: wasco_ast_2011191_lrg.jpg
 ---
+
+[Comments in GitHub flavour of Markdown](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
+>[TryingThis](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152)
+[//]: # (This is a comment.)
+[//]: # (This is a comment on a new line.)
+![image](https://github.com/user-attachments/assets/6433a024-6b1e-4c09-a48a-659f125729c9)
+
 <div class="tupperware">
 {% for image in site.static_files %}
 
