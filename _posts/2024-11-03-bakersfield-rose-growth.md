@@ -4,7 +4,7 @@ title:  "BAKERSFiELD"
 published: true
 image: wasco_ast_2011191_lrg.jpg
 ---
-
+[Liquid reference](https://shopify.dev/docs/api/liquid) Liquid is a template language created by Shopify. It's available as [an open source project on GitHub](https://github.com/ThakaRashard/liquid), and is used by many different software projects and [companies](https://www.nasa.gov/international-space-station/).
 [Comments in GitHub flavour of Markdown](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9)
 >[TryingThis](https://gist.github.com/jonikarppinen/47dc8c1d7ab7e911f4c9?permalink_comment_id=3450152#gistcomment-3450152)
 [//]: # (This is a comment.)
